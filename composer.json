@@ -1,0 +1,16 @@
+{
+  "name": "Doctrine SoftDeletable",
+  "description": "Triggerfish sulu content types",
+  "type": "library",
+  "authors": [
+    {
+      "name": "Roy Heerdink",
+      "email": "royheerdink@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Twoez\\SoftDeletable\\": "src/"
+    }
+  }
+}
