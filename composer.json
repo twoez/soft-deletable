@@ -1,5 +1,5 @@
 {
-  "name": "Doctrine SoftDeletable",
+  "name": "twoez/soft-deletable",
   "description": "Triggerfish sulu content types",
   "type": "library",
   "authors": [
